@@ -1,1 +1,2 @@
-# Envirosense-Temperature-Controller-Using-Arduino-
+# Envirosense-Temperature-Controller-Using-Arduino
+EnviroSense is an advanced environmental monitoring system designed to analyze indoor and outdoor conditions for optimal climate control. The system utilizes multiple sensors to gather real-time data on temperature and humidity, which is processed using an ESP32 microcontroller. The data is then transmitted to an online platform (Google Firebase) for monitoring and decision-making. The goal is to enhance comfort and energy efficiency by providing intelligent recommendations for climate control. 
